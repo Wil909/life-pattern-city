@@ -1,0 +1,6068 @@
+{
+  "0": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.001626703"
+  },
+  "1": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.3280865"
+  },
+  "10": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.557176006"
+  },
+  "100": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.142686163"
+  },
+  "1000": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.983012498"
+  },
+  "1001": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.043433461"
+  },
+  "1002": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.323610205"
+  },
+  "1003": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.336785107"
+  },
+  "1004": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.070626542"
+  },
+  "1005": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.356881322"
+  },
+  "1006": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.639268458"
+  },
+  "1007": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.934347783"
+  },
+  "1008": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.163721028"
+  },
+  "1009": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.828330134"
+  },
+  "101": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.020504586"
+  },
+  "1010": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.17538799"
+  },
+  "102": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.265501227"
+  },
+  "103": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.194724115"
+  },
+  "104": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.991414933"
+  },
+  "105": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.851915894"
+  },
+  "106": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.700811306"
+  },
+  "107": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.357131296"
+  },
+  "108": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.098903572"
+  },
+  "109": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.290464519"
+  },
+  "11": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.25422732"
+  },
+  "110": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.313305546"
+  },
+  "111": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.720330648"
+  },
+  "112": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.646977694"
+  },
+  "113": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.999233967"
+  },
+  "114": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.413490065"
+  },
+  "115": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.57753282"
+  },
+  "116": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.30282788"
+  },
+  "117": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.760663448"
+  },
+  "118": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.140611532"
+  },
+  "119": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.612907872"
+  },
+  "12": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.241615182"
+  },
+  "120": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.876546337"
+  },
+  "121": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.41537229"
+  },
+  "122": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.159723746"
+  },
+  "123": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.118152103"
+  },
+  "124": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.14336634"
+  },
+  "125": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.150075471"
+  },
+  "126": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.72895287"
+  },
+  "127": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.882038681"
+  },
+  "128": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.718790546"
+  },
+  "129": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.371183768"
+  },
+  "13": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.724503834"
+  },
+  "130": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.524660325"
+  },
+  "131": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.802929522"
+  },
+  "132": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.540291283"
+  },
+  "133": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.551268581"
+  },
+  "134": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.247000174"
+  },
+  "135": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.86081073"
+  },
+  "136": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.555650922"
+  },
+  "137": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.87301128"
+  },
+  "138": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.732757238"
+  },
+  "139": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.846097713"
+  },
+  "14": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.930003289"
+  },
+  "140": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.216307476"
+  },
+  "141": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.792161061"
+  },
+  "142": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.789243454"
+  },
+  "143": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.107753878"
+  },
+  "144": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.444080663"
+  },
+  "145": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.882253016"
+  },
+  "146": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.643761923"
+  },
+  "147": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.528698226"
+  },
+  "148": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.266938991"
+  },
+  "149": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.80654106"
+  },
+  "15": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.232266068"
+  },
+  "150": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.20807405"
+  },
+  "151": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.159854965"
+  },
+  "152": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.6089739"
+  },
+  "153": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.758079342"
+  },
+  "154": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.954706293"
+  },
+  "155": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.176618296"
+  },
+  "156": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.466716971"
+  },
+  "157": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.254005742"
+  },
+  "158": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.468930899"
+  },
+  "159": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.24297235"
+  },
+  "16": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.392189088"
+  },
+  "160": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.168095803"
+  },
+  "161": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.965708743"
+  },
+  "162": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.936659644"
+  },
+  "163": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.225309113"
+  },
+  "164": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.812453062"
+  },
+  "165": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.964990249"
+  },
+  "166": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.627739055"
+  },
+  "167": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.846680285"
+  },
+  "168": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.365595636"
+  },
+  "169": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.364391587"
+  },
+  "17": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.114667399"
+  },
+  "170": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.133248852"
+  },
+  "171": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.114389766"
+  },
+  "172": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.575001936"
+  },
+  "173": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.78521373"
+  },
+  "174": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.718049535"
+  },
+  "175": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.481863571"
+  },
+  "176": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.931237599"
+  },
+  "177": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.495453274"
+  },
+  "178": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.725246226"
+  },
+  "179": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.900831449"
+  },
+  "18": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.32696558"
+  },
+  "180": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.100777319"
+  },
+  "181": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.787497465"
+  },
+  "182": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.839659224"
+  },
+  "183": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.109940826"
+  },
+  "184": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.95269116"
+  },
+  "185": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.270514436"
+  },
+  "186": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.89222241"
+  },
+  "187": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.207533138"
+  },
+  "188": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.730336584"
+  },
+  "189": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.216100876"
+  },
+  "19": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.486470164"
+  },
+  "190": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.61053033"
+  },
+  "191": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.447070968"
+  },
+  "192": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.262612842"
+  },
+  "193": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.976160413"
+  },
+  "194": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.162966636"
+  },
+  "195": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.058702708"
+  },
+  "196": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.360151845"
+  },
+  "197": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.901982488"
+  },
+  "198": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.321634269"
+  },
+  "199": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.379086335"
+  },
+  "2": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.39346959"
+  },
+  "20": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.619057739"
+  },
+  "200": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.122095522"
+  },
+  "201": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.203183443"
+  },
+  "202": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.985936814"
+  },
+  "203": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.939180121"
+  },
+  "204": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.271944209"
+  },
+  "205": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.194899452"
+  },
+  "206": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.365692745"
+  },
+  "207": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.814611008"
+  },
+  "208": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.371925591"
+  },
+  "209": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.25635218"
+  },
+  "21": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.931240975"
+  },
+  "210": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.857673439"
+  },
+  "211": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.214486332"
+  },
+  "212": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.748988452"
+  },
+  "213": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.961066785"
+  },
+  "214": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.300610569"
+  },
+  "215": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.089838002"
+  },
+  "216": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.153900625"
+  },
+  "217": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.948411855"
+  },
+  "218": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.971074532"
+  },
+  "219": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.955659284"
+  },
+  "22": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.663815663"
+  },
+  "220": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.79251329"
+  },
+  "221": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.727868507"
+  },
+  "222": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.617025806"
+  },
+  "223": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.700821194"
+  },
+  "224": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.28441375"
+  },
+  "225": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.004829228"
+  },
+  "226": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.965943386"
+  },
+  "227": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.490213553"
+  },
+  "228": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.168680628"
+  },
+  "229": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.68602034"
+  },
+  "23": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.260211811"
+  },
+  "230": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.004466007"
+  },
+  "231": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.902213545"
+  },
+  "232": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.96685839"
+  },
+  "233": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.263283426"
+  },
+  "234": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.332411556"
+  },
+  "235": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.936585851"
+  },
+  "236": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.10774033"
+  },
+  "237": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.110877355"
+  },
+  "238": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.256101892"
+  },
+  "239": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.795405195"
+  },
+  "24": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.607328128"
+  },
+  "240": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.641752748"
+  },
+  "241": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.088547964"
+  },
+  "242": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.113248116"
+  },
+  "243": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.662515201"
+  },
+  "244": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.969991586"
+  },
+  "245": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.859058201"
+  },
+  "246": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.968768651"
+  },
+  "247": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.867500339"
+  },
+  "248": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.287889236"
+  },
+  "249": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.842954238"
+  },
+  "25": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.520535752"
+  },
+  "250": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.627740735"
+  },
+  "251": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.386580333"
+  },
+  "252": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.564718074"
+  },
+  "253": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.560328176"
+  },
+  "254": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.17968177"
+  },
+  "255": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.852187763"
+  },
+  "256": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.807211251"
+  },
+  "257": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.405851044"
+  },
+  "258": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.951577316"
+  },
+  "259": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.19286307"
+  },
+  "26": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.549177225"
+  },
+  "260": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.33366576"
+  },
+  "261": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.465652496"
+  },
+  "262": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.664033926"
+  },
+  "263": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.223825175"
+  },
+  "264": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.106440071"
+  },
+  "265": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.048044295"
+  },
+  "266": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.972629863"
+  },
+  "267": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.798810236"
+  },
+  "268": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.041170737"
+  },
+  "269": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.36077235"
+  },
+  "27": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.135148815"
+  },
+  "270": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.173976665"
+  },
+  "271": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.331893543"
+  },
+  "272": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.669281126"
+  },
+  "273": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.874083512"
+  },
+  "274": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.79265137"
+  },
+  "275": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.173802734"
+  },
+  "276": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.107405002"
+  },
+  "277": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.836787725"
+  },
+  "278": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.259541618"
+  },
+  "279": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.811965348"
+  },
+  "28": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.230073813"
+  },
+  "280": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.102762652"
+  },
+  "281": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.478284265"
+  },
+  "282": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.109360456"
+  },
+  "283": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.880967299"
+  },
+  "284": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.754293139"
+  },
+  "285": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.897884327"
+  },
+  "286": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.476984055"
+  },
+  "287": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.599616007"
+  },
+  "288": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.910143395"
+  },
+  "289": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.955240694"
+  },
+  "29": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.607853294"
+  },
+  "290": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.271552097"
+  },
+  "291": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.370084679"
+  },
+  "292": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.686374918"
+  },
+  "293": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.126082302"
+  },
+  "294": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.847052228"
+  },
+  "295": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.439355556"
+  },
+  "296": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.548350934"
+  },
+  "297": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.057905387"
+  },
+  "298": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.852555697"
+  },
+  "299": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.5149016"
+  },
+  "3": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.138063446"
+  },
+  "30": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.681423545"
+  },
+  "300": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.21434781"
+  },
+  "301": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.873371058"
+  },
+  "302": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.254585434"
+  },
+  "303": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.543218407"
+  },
+  "304": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.183595892"
+  },
+  "305": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.84325552"
+  },
+  "306": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.260386143"
+  },
+  "307": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.962210067"
+  },
+  "308": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.172405182"
+  },
+  "309": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.125682773"
+  },
+  "31": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.23266675"
+  },
+  "310": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.061286668"
+  },
+  "311": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.699020662"
+  },
+  "312": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.260798961"
+  },
+  "313": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.093271632"
+  },
+  "314": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.633335142"
+  },
+  "315": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.287666416"
+  },
+  "316": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.175386489"
+  },
+  "317": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.494087429"
+  },
+  "318": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.473772081"
+  },
+  "319": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.253614379"
+  },
+  "32": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.189498641"
+  },
+  "320": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.477539156"
+  },
+  "321": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.842877969"
+  },
+  "322": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.650831243"
+  },
+  "323": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.757226712"
+  },
+  "324": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.122182828"
+  },
+  "325": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.480441948"
+  },
+  "326": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.654885921"
+  },
+  "327": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.228872071"
+  },
+  "328": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.346047608"
+  },
+  "329": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.085267909"
+  },
+  "33": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.094585958"
+  },
+  "330": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.7738118"
+  },
+  "331": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.417763616"
+  },
+  "332": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.323175901"
+  },
+  "333": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.299174844"
+  },
+  "334": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.103185768"
+  },
+  "335": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.328727521"
+  },
+  "336": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.600454813"
+  },
+  "337": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.108965479"
+  },
+  "338": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.713809975"
+  },
+  "339": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.21098913"
+  },
+  "34": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.767112453"
+  },
+  "340": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.034283769"
+  },
+  "341": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.227355255"
+  },
+  "342": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.584828154"
+  },
+  "343": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.029688855"
+  },
+  "344": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.025541228"
+  },
+  "345": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.464569175"
+  },
+  "346": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.70462894"
+  },
+  "347": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.270904553"
+  },
+  "348": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.573738776"
+  },
+  "349": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.51011746"
+  },
+  "35": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.707950782"
+  },
+  "350": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.517999111"
+  },
+  "351": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.269322751"
+  },
+  "352": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.788841177"
+  },
+  "353": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.34088384"
+  },
+  "354": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.21035075"
+  },
+  "355": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.735837586"
+  },
+  "356": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.686094014"
+  },
+  "357": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.536520661"
+  },
+  "358": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.969014671"
+  },
+  "359": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.757990018"
+  },
+  "36": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.348019484"
+  },
+  "360": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.41088011"
+  },
+  "361": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.299050559"
+  },
+  "362": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.753234813"
+  },
+  "363": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.404476978"
+  },
+  "364": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.253379525"
+  },
+  "365": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.438986616"
+  },
+  "366": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.138808298"
+  },
+  "367": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.13664462"
+  },
+  "368": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.039923482"
+  },
+  "369": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.139040705"
+  },
+  "37": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.174975799"
+  },
+  "370": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.70247421"
+  },
+  "371": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.371688755"
+  },
+  "372": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.986983183"
+  },
+  "373": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.979407864"
+  },
+  "374": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.85417223"
+  },
+  "375": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.184734538"
+  },
+  "376": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.141162784"
+  },
+  "377": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.035335186"
+  },
+  "378": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.991810222"
+  },
+  "379": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.061959185"
+  },
+  "38": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.215116214"
+  },
+  "380": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.690118062"
+  },
+  "381": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.621188126"
+  },
+  "382": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.964579432"
+  },
+  "383": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.694582993"
+  },
+  "384": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.949906952"
+  },
+  "385": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.569018722"
+  },
+  "386": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.479804894"
+  },
+  "387": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.401545108"
+  },
+  "388": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.687759804"
+  },
+  "389": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.596117189"
+  },
+  "39": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.862950926"
+  },
+  "390": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.76530714"
+  },
+  "391": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.140477262"
+  },
+  "392": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.848830989"
+  },
+  "393": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.909124868"
+  },
+  "394": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.52722067"
+  },
+  "395": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.675097131"
+  },
+  "396": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.364809779"
+  },
+  "397": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.396967817"
+  },
+  "398": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.963462391"
+  },
+  "399": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.082643442"
+  },
+  "4": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.857396691"
+  },
+  "40": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.880410054"
+  },
+  "400": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.512379139"
+  },
+  "401": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.264710804"
+  },
+  "402": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.674497947"
+  },
+  "403": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.884407261"
+  },
+  "404": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.230962551"
+  },
+  "405": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.617829242"
+  },
+  "406": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.801609951"
+  },
+  "407": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.686077576"
+  },
+  "408": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.794096009"
+  },
+  "409": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.645271398"
+  },
+  "41": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.863663966"
+  },
+  "410": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.175733331"
+  },
+  "411": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.507728111"
+  },
+  "412": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.662852559"
+  },
+  "413": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.106292289"
+  },
+  "414": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.171319189"
+  },
+  "415": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.128459971"
+  },
+  "416": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.370202736"
+  },
+  "417": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.695894652"
+  },
+  "418": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.976850716"
+  },
+  "419": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.622118277"
+  },
+  "42": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.055283617"
+  },
+  "420": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.085672033"
+  },
+  "421": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.517662469"
+  },
+  "422": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.647441392"
+  },
+  "423": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.132465984"
+  },
+  "424": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.723576465"
+  },
+  "425": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.334417031"
+  },
+  "426": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.469702696"
+  },
+  "427": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.916735753"
+  },
+  "428": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.09631243"
+  },
+  "429": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.059265966"
+  },
+  "43": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.045228735"
+  },
+  "430": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.949453894"
+  },
+  "431": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.420302416"
+  },
+  "432": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.981851015"
+  },
+  "433": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "9.85E-04"
+  },
+  "434": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.618031654"
+  },
+  "435": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.725281643"
+  },
+  "436": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.949412047"
+  },
+  "437": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.450502705"
+  },
+  "438": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.63736647"
+  },
+  "439": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.930702522"
+  },
+  "44": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.976499153"
+  },
+  "440": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.049076886"
+  },
+  "441": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.800759302"
+  },
+  "442": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.523649971"
+  },
+  "443": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.758121962"
+  },
+  "444": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.048951659"
+  },
+  "445": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.496667064"
+  },
+  "446": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.154285175"
+  },
+  "447": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.689153128"
+  },
+  "448": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.924288993"
+  },
+  "449": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.392066569"
+  },
+  "45": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.179657824"
+  },
+  "450": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.504323829"
+  },
+  "451": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.164418633"
+  },
+  "452": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.742684694"
+  },
+  "453": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.811967182"
+  },
+  "454": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.249578287"
+  },
+  "455": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.158418515"
+  },
+  "456": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.685091778"
+  },
+  "457": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.151671229"
+  },
+  "458": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.312528351"
+  },
+  "459": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.344762529"
+  },
+  "46": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.225049088"
+  },
+  "460": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.969102133"
+  },
+  "461": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.302215803"
+  },
+  "462": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.773790326"
+  },
+  "463": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.353252364"
+  },
+  "464": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.923037343"
+  },
+  "465": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.329111154"
+  },
+  "466": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.191165293"
+  },
+  "467": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.586290946"
+  },
+  "468": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.45189519"
+  },
+  "469": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.554244414"
+  },
+  "47": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.424159724"
+  },
+  "470": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.679944615"
+  },
+  "471": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.039582663"
+  },
+  "472": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.941687305"
+  },
+  "473": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.614071428"
+  },
+  "474": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.088574034"
+  },
+  "475": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.237641609"
+  },
+  "476": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.094335508"
+  },
+  "477": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.383485068"
+  },
+  "478": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.495874155"
+  },
+  "479": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.753570226"
+  },
+  "48": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.485827661"
+  },
+  "480": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.211241597"
+  },
+  "481": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.563457797"
+  },
+  "482": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.012329643"
+  },
+  "483": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.209746249"
+  },
+  "484": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.936547208"
+  },
+  "485": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.24042683"
+  },
+  "486": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.02038719"
+  },
+  "487": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.471347147"
+  },
+  "488": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.770104322"
+  },
+  "489": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.107608661"
+  },
+  "49": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.229589642"
+  },
+  "490": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.008404856"
+  },
+  "491": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.843920569"
+  },
+  "492": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.364100624"
+  },
+  "493": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.641308283"
+  },
+  "494": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.149860389"
+  },
+  "495": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.478280008"
+  },
+  "496": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.145298865"
+  },
+  "497": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.906250776"
+  },
+  "498": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.653874654"
+  },
+  "499": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.494442294"
+  },
+  "5": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.772957791"
+  },
+  "50": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.576174771"
+  },
+  "500": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.239743189"
+  },
+  "501": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.895202266"
+  },
+  "502": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.597042481"
+  },
+  "503": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.892482505"
+  },
+  "504": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.108711953"
+  },
+  "505": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.466477753"
+  },
+  "506": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.602514117"
+  },
+  "507": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.293051648"
+  },
+  "508": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.87972655"
+  },
+  "509": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.705961036"
+  },
+  "51": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.374354513"
+  },
+  "510": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.716063608"
+  },
+  "511": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.173537994"
+  },
+  "512": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.66240327"
+  },
+  "513": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.306487271"
+  },
+  "514": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.896797286"
+  },
+  "515": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.41490899"
+  },
+  "516": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.369711957"
+  },
+  "517": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.460451549"
+  },
+  "518": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.379599106"
+  },
+  "519": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.974802854"
+  },
+  "52": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.730126771"
+  },
+  "520": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.154725513"
+  },
+  "521": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.477456741"
+  },
+  "522": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.277699434"
+  },
+  "523": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.80318727"
+  },
+  "524": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.262933648"
+  },
+  "525": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.01017311"
+  },
+  "526": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.703025703"
+  },
+  "527": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.543392106"
+  },
+  "528": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.008329855"
+  },
+  "529": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.568405413"
+  },
+  "53": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.140697641"
+  },
+  "530": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.585489943"
+  },
+  "531": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.134122197"
+  },
+  "532": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.303479796"
+  },
+  "533": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.504013735"
+  },
+  "534": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.298257944"
+  },
+  "535": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.428775106"
+  },
+  "536": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.137689076"
+  },
+  "537": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.969868254"
+  },
+  "538": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.617029061"
+  },
+  "539": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.449809053"
+  },
+  "54": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.778504463"
+  },
+  "540": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.820897579"
+  },
+  "541": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.778143316"
+  },
+  "542": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.149424876"
+  },
+  "543": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.557004306"
+  },
+  "544": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.574526753"
+  },
+  "545": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.632529807"
+  },
+  "546": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.061282494"
+  },
+  "547": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.065619544"
+  },
+  "548": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.061410383"
+  },
+  "549": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.211903193"
+  },
+  "55": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.770806686"
+  },
+  "550": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.420901962"
+  },
+  "551": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.492572167"
+  },
+  "552": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.057542458"
+  },
+  "553": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.100871333"
+  },
+  "554": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.551760119"
+  },
+  "555": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.604777434"
+  },
+  "556": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.626384882"
+  },
+  "557": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.540412762"
+  },
+  "558": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.805252435"
+  },
+  "559": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.684335696"
+  },
+  "56": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.734056857"
+  },
+  "560": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.240288209"
+  },
+  "561": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.24858955"
+  },
+  "562": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.329193948"
+  },
+  "563": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.970166283"
+  },
+  "564": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.842958885"
+  },
+  "565": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.906449778"
+  },
+  "566": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.401423701"
+  },
+  "567": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.865316562"
+  },
+  "568": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.812872098"
+  },
+  "569": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.650812395"
+  },
+  "57": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.422849796"
+  },
+  "570": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.539205582"
+  },
+  "571": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.36821258"
+  },
+  "572": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.681954474"
+  },
+  "573": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.978406157"
+  },
+  "574": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.856878184"
+  },
+  "575": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.83712939"
+  },
+  "576": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.968722072"
+  },
+  "577": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.93659165"
+  },
+  "578": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.98284777"
+  },
+  "579": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.768714853"
+  },
+  "58": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.192945633"
+  },
+  "580": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.66433137"
+  },
+  "581": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.417992624"
+  },
+  "582": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.468741471"
+  },
+  "583": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.568154176"
+  },
+  "584": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.130737765"
+  },
+  "585": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.265413241"
+  },
+  "586": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.008705951"
+  },
+  "587": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.444743825"
+  },
+  "588": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.412038273"
+  },
+  "589": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.975273877"
+  },
+  "59": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.186308253"
+  },
+  "590": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.448569158"
+  },
+  "591": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.263048698"
+  },
+  "592": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.22126511"
+  },
+  "593": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.919710751"
+  },
+  "594": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.278112333"
+  },
+  "595": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.739359987"
+  },
+  "596": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.967555161"
+  },
+  "597": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.408345757"
+  },
+  "598": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.171959185"
+  },
+  "599": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.998644049"
+  },
+  "6": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.833980668"
+  },
+  "60": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.411129251"
+  },
+  "600": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.791591163"
+  },
+  "601": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.585843678"
+  },
+  "602": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.853874668"
+  },
+  "603": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.751229979"
+  },
+  "604": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.875113575"
+  },
+  "605": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.705971019"
+  },
+  "606": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.370138058"
+  },
+  "607": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.370246957"
+  },
+  "608": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.358497175"
+  },
+  "609": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.213011118"
+  },
+  "61": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.598278749"
+  },
+  "610": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.526105544"
+  },
+  "611": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.734927742"
+  },
+  "612": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.034839253"
+  },
+  "613": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.541632245"
+  },
+  "614": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.059062573"
+  },
+  "615": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.79664861"
+  },
+  "616": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.544782269"
+  },
+  "617": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.965741735"
+  },
+  "618": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.089915241"
+  },
+  "619": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.025245948"
+  },
+  "62": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.491406814"
+  },
+  "620": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.673541165"
+  },
+  "621": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.738766851"
+  },
+  "622": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.719188185"
+  },
+  "623": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.576129491"
+  },
+  "624": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.916163673"
+  },
+  "625": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.604580267"
+  },
+  "626": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.793880506"
+  },
+  "627": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.26189132"
+  },
+  "628": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.84035204"
+  },
+  "629": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.38852626"
+  },
+  "63": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.583943591"
+  },
+  "630": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.653881117"
+  },
+  "631": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.217949026"
+  },
+  "632": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.243164359"
+  },
+  "633": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.227976736"
+  },
+  "634": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.915889403"
+  },
+  "635": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.447001762"
+  },
+  "636": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.104168464"
+  },
+  "637": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.573248725"
+  },
+  "638": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.221999544"
+  },
+  "639": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.527164931"
+  },
+  "64": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.330606159"
+  },
+  "640": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.686982312"
+  },
+  "641": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.396350271"
+  },
+  "642": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.261732596"
+  },
+  "643": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.619875624"
+  },
+  "644": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.130781968"
+  },
+  "645": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.134078822"
+  },
+  "646": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.962520694"
+  },
+  "647": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.665589674"
+  },
+  "648": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.634994302"
+  },
+  "649": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.042960665"
+  },
+  "65": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.498178653"
+  },
+  "650": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.846974117"
+  },
+  "651": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.047571871"
+  },
+  "652": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.665307968"
+  },
+  "653": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.39520838"
+  },
+  "654": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.872069831"
+  },
+  "655": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.380975259"
+  },
+  "656": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.315950154"
+  },
+  "657": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.71872952"
+  },
+  "658": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.675085656"
+  },
+  "659": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.741834688"
+  },
+  "66": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.773765426"
+  },
+  "660": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.354910317"
+  },
+  "661": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.056860736"
+  },
+  "662": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.038611164"
+  },
+  "663": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.937254935"
+  },
+  "664": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.270124892"
+  },
+  "665": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.172855291"
+  },
+  "666": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.328627654"
+  },
+  "667": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.037996177"
+  },
+  "668": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.59491202"
+  },
+  "669": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.183180758"
+  },
+  "67": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.438788793"
+  },
+  "670": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.39578961"
+  },
+  "671": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.270624129"
+  },
+  "672": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.470322266"
+  },
+  "673": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.051798314"
+  },
+  "674": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.543992757"
+  },
+  "675": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.545251458"
+  },
+  "676": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.068612756"
+  },
+  "677": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.137446199"
+  },
+  "678": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.90601112"
+  },
+  "679": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.980481087"
+  },
+  "68": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.519538618"
+  },
+  "680": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.141341978"
+  },
+  "681": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.440943662"
+  },
+  "682": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.392351739"
+  },
+  "683": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.241410497"
+  },
+  "684": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.411069142"
+  },
+  "685": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.599260494"
+  },
+  "686": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.786524128"
+  },
+  "687": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.954361914"
+  },
+  "688": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.434048369"
+  },
+  "689": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.42355875"
+  },
+  "69": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.743901318"
+  },
+  "690": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.467859308"
+  },
+  "691": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.609420425"
+  },
+  "692": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.560883015"
+  },
+  "693": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.402956862"
+  },
+  "694": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.391601344"
+  },
+  "695": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.54286479"
+  },
+  "696": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.452363587"
+  },
+  "697": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.976239224"
+  },
+  "698": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.674877675"
+  },
+  "699": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.055989127"
+  },
+  "7": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.958189409"
+  },
+  "70": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.72544679"
+  },
+  "700": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.907301342"
+  },
+  "701": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.440877016"
+  },
+  "702": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.288396985"
+  },
+  "703": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.609793327"
+  },
+  "704": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.746716458"
+  },
+  "705": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.692283941"
+  },
+  "706": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.404529522"
+  },
+  "707": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.275811473"
+  },
+  "708": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.570765537"
+  },
+  "709": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.100837923"
+  },
+  "71": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.947066909"
+  },
+  "710": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.324954076"
+  },
+  "711": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.942801579"
+  },
+  "712": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.325503058"
+  },
+  "713": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.11885355"
+  },
+  "714": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.905015948"
+  },
+  "715": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.373642689"
+  },
+  "716": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.132319548"
+  },
+  "717": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.318139199"
+  },
+  "718": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.839634412"
+  },
+  "719": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.960391982"
+  },
+  "72": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.218744284"
+  },
+  "720": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.930475595"
+  },
+  "721": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.232407811"
+  },
+  "722": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.634111119"
+  },
+  "723": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.315916767"
+  },
+  "724": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.241785645"
+  },
+  "725": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.624709649"
+  },
+  "726": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.502901494"
+  },
+  "727": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.945430646"
+  },
+  "728": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.037220396"
+  },
+  "729": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.465075787"
+  },
+  "73": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.381370977"
+  },
+  "730": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.748473896"
+  },
+  "731": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.619208795"
+  },
+  "732": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.240042805"
+  },
+  "733": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.298490597"
+  },
+  "734": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.522010625"
+  },
+  "735": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.063256748"
+  },
+  "736": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.130649539"
+  },
+  "737": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.933937799"
+  },
+  "738": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.879171582"
+  },
+  "739": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.68222841"
+  },
+  "74": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.904601349"
+  },
+  "740": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.409040073"
+  },
+  "741": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.187180439"
+  },
+  "742": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.091096884"
+  },
+  "743": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.077442954"
+  },
+  "744": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.447644949"
+  },
+  "745": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.10382656"
+  },
+  "746": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.588102942"
+  },
+  "747": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.066469676"
+  },
+  "748": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.874661744"
+  },
+  "749": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.017790641"
+  },
+  "75": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.791342831"
+  },
+  "750": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.262320121"
+  },
+  "751": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.77217008"
+  },
+  "752": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.736149674"
+  },
+  "753": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.339503386"
+  },
+  "754": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.17565975"
+  },
+  "755": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.414137953"
+  },
+  "756": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.933334008"
+  },
+  "757": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.797833033"
+  },
+  "758": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "2.04E-04"
+  },
+  "759": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.880468848"
+  },
+  "76": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.362917704"
+  },
+  "760": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.751787305"
+  },
+  "761": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.7844507"
+  },
+  "762": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.815990235"
+  },
+  "763": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.338259596"
+  },
+  "764": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.12564865"
+  },
+  "765": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.740682908"
+  },
+  "766": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.573952621"
+  },
+  "767": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.268937352"
+  },
+  "768": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.808558886"
+  },
+  "769": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.289569911"
+  },
+  "77": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.621716267"
+  },
+  "770": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.623466515"
+  },
+  "771": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.24609694"
+  },
+  "772": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.806871224"
+  },
+  "773": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.546776461"
+  },
+  "774": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.854523316"
+  },
+  "775": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.453217413"
+  },
+  "776": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.321067111"
+  },
+  "777": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.112504967"
+  },
+  "778": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.449689991"
+  },
+  "779": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.193751151"
+  },
+  "78": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.188638917"
+  },
+  "780": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.442987521"
+  },
+  "781": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.1411042"
+  },
+  "782": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.834580963"
+  },
+  "783": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.377309384"
+  },
+  "784": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.517238511"
+  },
+  "785": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.747594455"
+  },
+  "786": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.001365799"
+  },
+  "787": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.14514474"
+  },
+  "788": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.415138085"
+  },
+  "789": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.839157196"
+  },
+  "79": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.03403389"
+  },
+  "790": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.706306798"
+  },
+  "791": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.865257446"
+  },
+  "792": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.972081828"
+  },
+  "793": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.695900691"
+  },
+  "794": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.818566502"
+  },
+  "795": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.517422334"
+  },
+  "796": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.430036143"
+  },
+  "797": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.665923892"
+  },
+  "798": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.96008167"
+  },
+  "799": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.992601749"
+  },
+  "8": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.697554819"
+  },
+  "80": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.40138993"
+  },
+  "800": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.027591944"
+  },
+  "801": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.490190335"
+  },
+  "802": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.493231932"
+  },
+  "803": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.217382928"
+  },
+  "804": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.468583888"
+  },
+  "805": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.328587955"
+  },
+  "806": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.437718862"
+  },
+  "807": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.033479552"
+  },
+  "808": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.8452362"
+  },
+  "809": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.457280127"
+  },
+  "81": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.871320255"
+  },
+  "810": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.144875993"
+  },
+  "811": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.030335914"
+  },
+  "812": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.619525261"
+  },
+  "813": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.539387528"
+  },
+  "814": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.44174758"
+  },
+  "815": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.521630433"
+  },
+  "816": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.206406844"
+  },
+  "817": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.501048865"
+  },
+  "818": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.758474429"
+  },
+  "819": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.283066289"
+  },
+  "82": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.955760648"
+  },
+  "820": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.065357535"
+  },
+  "821": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.053564289"
+  },
+  "822": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.202769644"
+  },
+  "823": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.269842118"
+  },
+  "824": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.904248183"
+  },
+  "825": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.780884351"
+  },
+  "826": {
+    "educationLevel": "Graduate",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.610736625"
+  },
+  "827": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.97254096"
+  },
+  "828": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.813680504"
+  },
+  "829": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.280151127"
+  },
+  "83": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.027148207"
+  },
+  "830": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.152431791"
+  },
+  "831": {
+    "educationLevel": "Low",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.60769828"
+  },
+  "832": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.249719036"
+  },
+  "833": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.139770688"
+  },
+  "834": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.408977137"
+  },
+  "835": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.957400017"
+  },
+  "836": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.201801545"
+  },
+  "837": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.048428984"
+  },
+  "838": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.221489156"
+  },
+  "839": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.980908737"
+  },
+  "84": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.455102277"
+  },
+  "840": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.469113963"
+  },
+  "841": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.655361489"
+  },
+  "842": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.636640992"
+  },
+  "843": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.683850663"
+  },
+  "844": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.659909909"
+  },
+  "845": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.234712133"
+  },
+  "846": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.247843267"
+  },
+  "847": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.948917655"
+  },
+  "848": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.633519504"
+  },
+  "849": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.828259584"
+  },
+  "85": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.354510651"
+  },
+  "850": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.631431974"
+  },
+  "851": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.677712189"
+  },
+  "852": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.30005276"
+  },
+  "853": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.42856627"
+  },
+  "854": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.042899175"
+  },
+  "855": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.547588054"
+  },
+  "856": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.370060753"
+  },
+  "857": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.853049624"
+  },
+  "858": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.87924161"
+  },
+  "859": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.7135266"
+  },
+  "86": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.399201318"
+  },
+  "860": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.839802108"
+  },
+  "861": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.332054621"
+  },
+  "862": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.997604884"
+  },
+  "863": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.807449064"
+  },
+  "864": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.416211045"
+  },
+  "865": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.115098336"
+  },
+  "866": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.997670843"
+  },
+  "867": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.709526793"
+  },
+  "868": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.38081745"
+  },
+  "869": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.495487226"
+  },
+  "87": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.725176476"
+  },
+  "870": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.820903516"
+  },
+  "871": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.067887485"
+  },
+  "872": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.928387676"
+  },
+  "873": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.282834314"
+  },
+  "874": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.891019925"
+  },
+  "875": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.535316197"
+  },
+  "876": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.289402134"
+  },
+  "877": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.573668238"
+  },
+  "878": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.337456142"
+  },
+  "879": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.353813394"
+  },
+  "88": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.746921002"
+  },
+  "880": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.021946709"
+  },
+  "881": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.889292896"
+  },
+  "882": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.20389365"
+  },
+  "883": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.020957045"
+  },
+  "884": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.384062608"
+  },
+  "885": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.280787048"
+  },
+  "886": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.550077037"
+  },
+  "887": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.983190272"
+  },
+  "888": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.643407835"
+  },
+  "889": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.126644557"
+  },
+  "89": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.169054036"
+  },
+  "890": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.875200368"
+  },
+  "891": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.554827306"
+  },
+  "892": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.03022743"
+  },
+  "893": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.540411016"
+  },
+  "894": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.550025961"
+  },
+  "895": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.628664697"
+  },
+  "896": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.692154335"
+  },
+  "897": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.385248792"
+  },
+  "898": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.486920328"
+  },
+  "899": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.544405537"
+  },
+  "9": {
+    "educationLevel": "Bachelors",
+    "haveKids": "TRUE",
+    "householdSize": "3",
+    "joviality": "0.467131409"
+  },
+  "90": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.139818869"
+  },
+  "900": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.89356989"
+  },
+  "901": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.480241663"
+  },
+  "902": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.063125207"
+  },
+  "903": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.210131243"
+  },
+  "904": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.161994033"
+  },
+  "905": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.533005979"
+  },
+  "906": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.930669564"
+  },
+  "907": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.632828416"
+  },
+  "908": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.598767089"
+  },
+  "909": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.014316555"
+  },
+  "91": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.733204092"
+  },
+  "910": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.652990074"
+  },
+  "911": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.303588097"
+  },
+  "912": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.933377794"
+  },
+  "913": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "2.65E-04"
+  },
+  "914": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.405713393"
+  },
+  "915": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.992351674"
+  },
+  "916": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.784906863"
+  },
+  "917": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.431612119"
+  },
+  "918": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.230593991"
+  },
+  "919": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.283020728"
+  },
+  "92": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.467868166"
+  },
+  "920": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.96153717"
+  },
+  "921": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.931029947"
+  },
+  "922": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.046984156"
+  },
+  "923": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.8563378"
+  },
+  "924": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.275547256"
+  },
+  "925": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.132602239"
+  },
+  "926": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.185717667"
+  },
+  "927": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.093249599"
+  },
+  "928": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.445184451"
+  },
+  "929": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.777990984"
+  },
+  "93": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.580101654"
+  },
+  "930": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.203002706"
+  },
+  "931": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.88226691"
+  },
+  "932": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.522667054"
+  },
+  "933": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.097293702"
+  },
+  "934": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.536881382"
+  },
+  "935": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.441937538"
+  },
+  "936": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.235105787"
+  },
+  "937": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.240105908"
+  },
+  "938": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.679262409"
+  },
+  "939": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.880292697"
+  },
+  "94": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.413830119"
+  },
+  "940": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.807027625"
+  },
+  "941": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.840828509"
+  },
+  "942": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.715480626"
+  },
+  "943": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.449546034"
+  },
+  "944": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.660069967"
+  },
+  "945": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.819895146"
+  },
+  "946": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.010975349"
+  },
+  "947": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.116646459"
+  },
+  "948": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.880591759"
+  },
+  "949": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.380395715"
+  },
+  "95": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.451218504"
+  },
+  "950": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.131920315"
+  },
+  "951": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.932155545"
+  },
+  "952": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.148548085"
+  },
+  "953": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.846871205"
+  },
+  "954": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.556397418"
+  },
+  "955": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.305318637"
+  },
+  "956": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.217082066"
+  },
+  "957": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.549042649"
+  },
+  "958": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.301470597"
+  },
+  "959": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.349445327"
+  },
+  "96": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.504845427"
+  },
+  "960": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.570251922"
+  },
+  "961": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.91308015"
+  },
+  "962": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.890386981"
+  },
+  "963": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.132914203"
+  },
+  "964": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.455351665"
+  },
+  "965": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.258533986"
+  },
+  "966": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.119913514"
+  },
+  "967": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.950638773"
+  },
+  "968": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.982251017"
+  },
+  "969": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.172802708"
+  },
+  "97": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.679506778"
+  },
+  "970": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.129766383"
+  },
+  "971": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.159548434"
+  },
+  "972": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.360847428"
+  },
+  "973": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.274541862"
+  },
+  "974": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.345104613"
+  },
+  "975": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.086367063"
+  },
+  "976": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.077140899"
+  },
+  "977": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.502257508"
+  },
+  "978": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.398379338"
+  },
+  "979": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.357706459"
+  },
+  "98": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.366630644"
+  },
+  "980": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.548974082"
+  },
+  "981": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.458594873"
+  },
+  "982": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.098639485"
+  },
+  "983": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.21831518"
+  },
+  "984": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.969600048"
+  },
+  "985": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.198499294"
+  },
+  "986": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.301652515"
+  },
+  "987": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.182773504"
+  },
+  "988": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.315707809"
+  },
+  "989": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.659934449"
+  },
+  "99": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "2",
+    "joviality": "0.39686665"
+  },
+  "990": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.833977506"
+  },
+  "991": {
+    "educationLevel": "Low",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.970492609"
+  },
+  "992": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.280018247"
+  },
+  "993": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.905125735"
+  },
+  "994": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.932521377"
+  },
+  "995": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.444802157"
+  },
+  "996": {
+    "educationLevel": "HighSchoolOrCollege",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.572648773"
+  },
+  "997": {
+    "educationLevel": "Graduate",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.128853966"
+  },
+  "998": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.335018383"
+  },
+  "999": {
+    "educationLevel": "Bachelors",
+    "haveKids": "FALSE",
+    "householdSize": "1",
+    "joviality": "0.254432893"
+  }
+}

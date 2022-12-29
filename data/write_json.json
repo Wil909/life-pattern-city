@@ -1,0 +1,43 @@
+{
+  "1": {
+    "['Eating', 'Coming Back From Restaurant', 'Eating', 'Coming Back From Restaurant']": 6743,
+    "['Eating', 'Coming Back From Restaurant']": 10266,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 10471,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Eating', 'Coming Back From Restaurant', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1526,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1360,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 3016,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home']": 3221,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute']": 43788,
+    "['Work/Home Commute', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 5454,
+    "['Work/Home Commute', 'Work/Home Commute']": 6637
+  },
+  "2": {
+    "['Eating', 'Coming Back From Restaurant', 'Eating', 'Coming Back From Restaurant']": 7807,
+    "['Eating', 'Coming Back From Restaurant']": 12230,
+    "['Going Back to Home', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute']": 1052,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 12542,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Eating', 'Coming Back From Restaurant', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1105,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1717,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 3376,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home']": 3231,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute']": 47347,
+    "['Work/Home Commute', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 6735,
+    "['Work/Home Commute', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1338,
+    "['Work/Home Commute', 'Work/Home Commute']": 8775
+  },
+  "3": {
+    "['Eating', 'Coming Back From Restaurant', 'Eating', 'Coming Back From Restaurant', 'Eating', 'Coming Back From Restaurant']": 1082,
+    "['Eating', 'Coming Back From Restaurant', 'Eating', 'Coming Back From Restaurant']": 7281,
+    "['Eating', 'Coming Back From Restaurant']": 10672,
+    "['Going Back to Home', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute']": 1289,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 12850,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Eating', 'Coming Back From Restaurant', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1295,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1385,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 3006,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home']": 2594,
+    "['Work/Home Commute', 'Eating', 'Coming Back From Restaurant', 'Work/Home Commute']": 39045,
+    "['Work/Home Commute', 'Work/Home Commute', 'Eating', 'Coming Back From Restaurant']": 7170,
+    "['Work/Home Commute', 'Work/Home Commute', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home', 'Recreation (Social Gathering)', 'Going Back to Home']": 1145,
+    "['Work/Home Commute', 'Work/Home Commute']": 8405
+  }
+}
