@@ -58,9 +58,9 @@
 
 ```
 # 克隆项目
-git clone https://github.com/biubiubiu01/vue3-bigData.git
+https://github.com/Wil909/life-pattern-city.git
 # 进入项目目录
-cd vue3-bigData
+cd life-pattern-city
 # 安装依赖
 npm i
 # 本地开发 启动项目
@@ -73,9 +73,6 @@ npm run serve
 ```
 # 打包项目
 npm run build
-# 单元测试
-npm run test
-```
 
 ## Online Demo
 
