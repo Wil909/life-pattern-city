@@ -58,7 +58,7 @@
 
 ```
 # 克隆项目
-https://github.com/Wil909/life-pattern-city.git
+git clone https://github.com/Wil909/life-pattern-city.git
 # 进入项目目录
 cd life-pattern-city
 # 安装依赖
